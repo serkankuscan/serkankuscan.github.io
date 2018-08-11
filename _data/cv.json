@@ -1,0 +1,144 @@
+{
+  "basics": {
+    "name": "Serkan Kuşcan",
+    "label": "Kısa Bilgi",
+    "picture": "",
+    "email": "serkankuscan@yandex.com",
+    "phone": "(536) 911-5765",
+    "website": "https://serkankuscan.github.io",
+    "summary": "Hakkında Özetçe",
+    "location": {
+      "address": "Çoban - Merkez",
+      "postalCode": "",
+      "city": "Düzce",
+      "countryCode": "TR",
+      "region": ""
+    },
+    "profiles": [
+	  {
+        "network": "Github",
+        "username": "serkankuscan",
+        "url": "https://github.com/serkankuscan"
+      },
+      {
+        "network": "Twitter",
+        "username": "serkankuscan",
+        "url": "https://twitter.com/serkankuscan"
+      }      
+    ]
+  },
+  "work": [
+	{
+      "company": "İstanbul İstanbul Evleri",
+      "position": "Temizlik - Posta - Ofis İşleri",
+      "website": "",
+      "startDate": "07/01/2009",
+      "endDate": "14/02/2011",
+      "summary": "Temizlik - Posta - Ofis İşleri"
+    },
+	{
+      "company": "İstanbul İstanbul Evleri",
+      "position": "Temizlik - Posta - Ofis İşleri",
+      "website": "",
+      "startDate": "17/06/2013",
+      "endDate": "24/06/2014",
+      "summary": "Temizlik - Posta - Ofis İşleri"
+    },
+    {
+      "company": "Bilge Haberleşme San. Tic. Ltd. Şti.",
+      "position": "Web Yazılım",
+      "website": "http://www.bilgecell.com/",
+      "startDate": "01/06/2014",
+      "endDate": "01/06/2015",
+      "summary": "Web üzerinden toplu sms gönderimi",
+      "highlights": [
+        " ",
+        " "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Düzce Üniversitesi",
+      "area": "Bilgisayar Mühendisliği",
+      "studyType": "",
+      "startDate": "19/10/2016",
+      "endDate": "-",
+      "gpa": "Not",
+      "courses": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Ad Soyad",
+      "reference": "Yazısı"
+    }
+  ]
+}

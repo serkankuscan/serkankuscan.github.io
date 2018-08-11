@@ -1,0 +1,42 @@
+# Theme Skin
+skin: default # default, night, plum, sea, soft, steel
+
+# Theme Text
+t:
+  skip_links: "Bağlantılara git"
+  skip_primary_nav: "Birincil gezinme bölümüne geç"
+  skip_content: "İçeriğe git"
+  skip_footer: "Altbilgiye git"
+  menu: "Menu"
+  home: "Anasayfa"
+  newer: "Daha Yeni"
+  older: "Daha Eski"
+  email: "Email"
+  subscribe: "Takip Et"
+  read_more: "Devamını Oku"
+  posts: "Son Gönderiler"
+  page: "Sayfa"
+  of: "arasında"
+  min_read: "dak. okundu"
+  present: "Mevcut"
+
+# Google Fonts
+google_fonts:
+  - name: "Fira Sans"
+    weights: "400,400i,600,600i"
+
+# Link to specific internal pages in the navigation.
+# Create a custom list to override the default setting of including links to all
+# pages that have a `title`. Add raw page paths in the order you'd like.
+
+navigation_pages:
+  - veritabanidersleri.md
+  - extjs.md
+  - javase.md
+  - about.md
+  - cv.md
+  #- edge-case.md
+  #- posts.md
+  #- markup.md
+  #- categories.md
+  #- tags.md
