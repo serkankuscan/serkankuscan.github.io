@@ -8,9 +8,9 @@
     "website": "https://serkankuscan.github.io",
     "summary": "Hakkında Özetçe",
     "location": {
-      "address": "Çoban - Merkez",
+      "address": "Emek - Çankaya",
       "postalCode": "",
-      "city": "Düzce",
+      "city": "Ankara",
       "countryCode": "TR",
       "region": ""
     },
@@ -28,23 +28,7 @@
     ]
   },
   "work": [
-	{
-      "company": "İstanbul İstanbul Evleri",
-      "position": "Temizlik - Posta - Ofis İşleri",
-      "website": "",
-      "startDate": "07/01/2009",
-      "endDate": "14/02/2011",
-      "summary": "Temizlik - Posta - Ofis İşleri"
-    },
-	{
-      "company": "İstanbul İstanbul Evleri",
-      "position": "Temizlik - Posta - Ofis İşleri",
-      "website": "",
-      "startDate": "17/06/2013",
-      "endDate": "24/06/2014",
-      "summary": "Temizlik - Posta - Ofis İşleri"
-    },
-    {
+  {
       "company": "Bilge Haberleşme San. Tic. Ltd. Şti.",
       "position": "Web Yazılım",
       "website": "http://www.bilgecell.com/",
@@ -55,7 +39,24 @@
         " ",
         " "
       ]
+    },
+  {
+      "company": "İstanbul İstanbul Evleri",
+      "position": "Temizlik - Posta - Ofis İşleri",
+      "website": "",
+      "startDate": "17/06/2013",
+      "endDate": "24/06/2014",
+      "summary": "Temizlik - Posta - Ofis İşleri"
+    },  
+	{
+      "company": "İstanbul İstanbul Evleri",
+      "position": "Temizlik - Posta - Ofis İşleri",
+      "website": "",
+      "startDate": "07/01/2009",
+      "endDate": "14/02/2011",
+      "summary": "Temizlik - Posta - Ofis İşleri"
     }
+    
   ],
   "volunteer": [
     {
@@ -76,8 +77,8 @@
       "area": "Bilgisayar Mühendisliği",
       "studyType": "",
       "startDate": "19/10/2016",
-      "endDate": "-",
-      "gpa": "Not",
+      "endDate": "22/08/2019",
+      "gpa": "3,20",
       "courses": [
         "",
         ""
