@@ -30,9 +30,9 @@ search: true
 search_full_content: true
 search_provider: lunr
 algolia:
-  application_id: ATRZ056E2Z
+  application_id: C7NIO59DNM
   index_name: serkankuscan.github.io
-  search_only_api_key: 2560fee310e4ba548c6e3fab9a3cc543
+  search_only_api_key: 99ef6994dce06067d27d446b1ab63d3b
   powered_by: true
 
 # Conversion
