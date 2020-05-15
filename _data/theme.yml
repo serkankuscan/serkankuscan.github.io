@@ -30,9 +30,9 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - server.md
+  - exchangeserver.md
   - veritabanidersleri.md
-  - extjs.md
-  - javase.md
   - about.md
   - cv.md
   #- edge-case.md
