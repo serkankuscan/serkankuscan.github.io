@@ -28,7 +28,8 @@ disqus:
   shortname: serkankuscan-github-io
 search: true
 search_full_content: true
-search_provider: lunr
+# search_provider: lunr
+search_provider: algolia
 algolia:
   application_id: C7NIO59DNM
   index_name: serkankuscan.github.io
