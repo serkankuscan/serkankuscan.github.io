@@ -4,15 +4,14 @@ layout: about
 ---
 
 Merhaba,
-Ben Serkan KUŞCAN. Bu sayfada genel olarak üniversitede gördüğüm veya göreceğim derslerin örneklerini, yaptığım projelerin örneklerini ve bazı programlama dillerini öğrenirken yaptığım örnekleri paylaşmaya çalışacağım. 
-Bu paylaşımlara kategorilerden ulaşabilirsiniz. Ek olarak Risale-i Nur’ dan bazı hakikatları, veziceleri ve istifadelerimi anasayfada paylaşacağım.
+Ben Serkan KUŞCAN. Düzce Üniversitesi bilgisayar mühendisliği bölümünden mezun oldum. Bilgi sistemleri alanında çalışmaya devam etmekteyim. Burada edindiğim bilgiler hakkında ve karşılaştığım problemlerin çözümlerine dair yazılar paylaşacağım. Bu paylaşımlara kategorilerden ulaşabilirsiniz. Ek olarak Risale-i Nur’ dan bazı hakikatları, veziceleri ve istifadelerimi anasayfada paylaşacağım.
 
 Kendimdem bahsedersem:
 - 1987 doğumluyum,
 - Yakacık Teknik Lisesi bilgisayar bölümünde okudum,
 - Düzce Üniversitesi MYO bilgisayar teknolojisi ve programlama bölümünde okudum,
-- Uzun aradan sonra (Allah' ın ihsanıyla) bilgisayar mühendisliğini kazandım,
-- Şuan Düzce Üniversitesi bilgisayar mühendisliği bölümünde 4. sınıfta okumaktayım.
+- Uzun aradan sonra bilgisayar mühendisliğini kazanarak Düzce Üniversitesi bilgisayar mühendisliğini bitirdim,
+- Şuan Bilgi Sistemleri alanında çalışmaktayım.
 
 
 
